@@ -30,8 +30,6 @@
 
 
 
-
-
 <h1> SATILIK PROJELERİM </h1>
 
 
