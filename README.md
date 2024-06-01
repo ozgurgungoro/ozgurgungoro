@@ -41,6 +41,8 @@ https://buymeacoffee.com/ozgurgungoro/e/261210
 
 
 
+![snake gif](https://github.com/ozgurgungoro/ozgurgungoro/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
