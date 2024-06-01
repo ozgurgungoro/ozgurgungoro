@@ -12,7 +12,8 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/ozgurgungor1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ozgurgungor1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%b6zg%c3%bcr-g%c3%bcng%c3%b6r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%c3%b6zg%c3%bcr-g%c3%bcng%c3%b6r/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24753534/%c3%b6zg%c3%bcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24753534/%c3%b6zg%c3%bcr" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24753534/%C3%B6zg%C3%BCr" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Özgür's Stack Overflow Profile" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ozgurgungoorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ozgurgungoorr" height="30" width="40" /></a>
 </p>
 
