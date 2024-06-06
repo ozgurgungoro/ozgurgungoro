@@ -2,12 +2,7 @@
 <h3 align="center">Bilgisayar Programcısı</h3>
 
 
-
-
-![c5ee5152fd8575cd966fa258addca1a1](https://github.com/ozgurgungoro/ozgurgungoro/assets/171092519/328a00f2-a3d4-4bca-88f0-19fc6c345bad)
-
-
-
+![c5ee5152fd8575cd966fa258addca1a1](https://github.com/ozgurgungoro/ozgurgungoro/assets/171092519/829b8297-0642-4170-91b8-ec73dac3a41b)
 
 
 
