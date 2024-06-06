@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Özgür Güngör</h1>
 <h3 align="center">Bilgisayar Programcısı</h3>
 
+
+
+
+![c5ee5152fd8575cd966fa258addca1a1](https://github.com/ozgurgungoro/ozgurgungoro/assets/171092519/328a00f2-a3d4-4bca-88f0-19fc6c345bad)
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgurgungor1&label=Profile%20views&color=0e75b6&style=flat" alt="ozgurgungor1" /> </p>
 
 
