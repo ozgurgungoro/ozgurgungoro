@@ -54,6 +54,12 @@ https://buymeacoffee.com/ozgurgungoro/e/261210
 
 
 
+ <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurgungoro&layout=compact&theme=transparent" alt="ozgurgungoro" />
+<p><img align="center" height="180em"src="https://github-readme-stats.vercel.app/api?username=ozgurgungoro&show_icons=true" alt="ozgurgungoro" /></p>
+
+
+
+
 
 
 
