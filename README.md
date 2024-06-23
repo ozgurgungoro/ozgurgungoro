@@ -28,10 +28,12 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ozgurgungoro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ozgurgungoro" /></a></p><br><br>
-
-
-
+<p>
+    <a href="https://www.buymeacoffee.com/ozgurgungoro"> 
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+    </a>
+</p>
+<br><br>
 
 
 
